@@ -1,7 +1,12 @@
 
 # mod_md - ACME for Apache
 
-This repository contains `mod_md`, a module for Apache httpd that helps you to manage your domains.
+This repository is now **archived** and **no longer maintained**. The module lives on as part of
+[the Apache httpd project](https://httpd.apache.org) and is maintained there. The current LLM 
+craziness does not allow me the time and mental resources to keep on providing a separate and
+for many people more convenient place here.
+
+My thanks to all the contributors over the last decade who helped out.
 
 ## What is it good for?
 
